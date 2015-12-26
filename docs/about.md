@@ -1,0 +1,1 @@
+To be able to test multiple [static site generators](https://www.staticgen.com/) this repository contains some sample content.

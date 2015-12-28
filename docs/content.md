@@ -3,7 +3,8 @@
 |── src
     |── assets
     |── helpers
-    |── layouts
     |── less
-    |── partials
+    |── templates
+        |── layouts
+        |── partials
 ```

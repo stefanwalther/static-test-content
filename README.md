@@ -13,9 +13,10 @@ This repository contains a project scaffold to work with and compare different [
 |── src
     |── assets
     |── helpers
-    |── layouts
     |── less
-    |── partials
+    |── templates
+        |── layouts
+        |── partials
 ```
 
 ## Author

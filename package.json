@@ -16,7 +16,5 @@
     "url": "https://github.com/stefanwalther/static-test-content/issues"
   },
   "homepage": "https://github.com/stefanwalther/static-test-content#readme",
-  "dependencies": {
-    "helper-markdown": "^0.1.2"
-  }
+  "dependencies": {}
 }

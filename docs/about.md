@@ -1,1 +1,1 @@
-To be able to test multiple [static site generators](https://www.staticgen.com/) this repository contains some sample content.
+This repository contains a project scaffold to work with and compare different [static site generators](https://www.staticgen.com/).

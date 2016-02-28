@@ -1,6 +1,6 @@
 ---
 title: Page as draft
-published: false
+draft: true
 ---
 # This page shouldn't be published.
 

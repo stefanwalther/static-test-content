@@ -1,5 +1,7 @@
 # static-test-content
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/static-test-content.svg)](https://greenkeeper.io/)
+
 > Some content to test static site generators.
 
 ## About
